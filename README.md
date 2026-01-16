@@ -7,7 +7,7 @@ This project is designed to reduce manual effort in controlling water flow and e
 - Automatic control of water flow  
 - Prevents water wastage  
 - Easy to set up and operate  
-- Beginner-friendly Arduino project  
+- Beginner friendly Arduino project  
 
 ---
 
