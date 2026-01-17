@@ -1,4 +1,4 @@
-# Smart-water-Despenser
+# Automated Water Management System
 A simple Arduino-based smart water dispenser for automatic water flow control.
 This project is designed to reduce manual effort in controlling water flow and ensure efficient usage.  
 
